@@ -28,4 +28,4 @@ int main(){
 
 
 
-![output](inc
+![output](incand_dec.png)
