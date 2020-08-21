@@ -17,3 +17,5 @@
     cout<<d<<endl;
     return 0;
  }
+
+![output](assignment operators.png)
