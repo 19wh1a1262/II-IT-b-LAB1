@@ -19,4 +19,4 @@ int main()
     return 0;
 }
 
-![output](arithmeticoperators.png)
+![output](arithmetic_operators.png)
