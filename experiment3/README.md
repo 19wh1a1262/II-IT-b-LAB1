@@ -25,4 +25,4 @@ int main()
     return 0;
 }
 
-![output](relational op.png)
+![output](relational_op.png)
