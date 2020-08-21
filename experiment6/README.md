@@ -13,3 +13,5 @@ int main(){
    cout << "Size of double : " << sizeof(double) << endl;
    return 0;
 }
+
+![output](sizeofchar.png)
