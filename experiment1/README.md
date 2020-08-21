@@ -1,4 +1,5 @@
-/*program to demonstrate arithmetic operators
+/*program to demonstrate arithmetic operators*/
+
 #include <iostream>
 using namespace std;
 
