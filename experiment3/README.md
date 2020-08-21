@@ -24,3 +24,5 @@ int main()
     cout<<"a is not equal to b :"<<c<<endl;
     return 0;
 }
+
+![output](relational op.png)
