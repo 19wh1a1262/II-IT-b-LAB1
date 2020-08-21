@@ -1,5 +1,4 @@
-/*program to demonstrate arithmetic operators*/
-
+/*arithmetic operators*/
 #include <iostream>
 using namespace std;
 
@@ -18,6 +17,5 @@ int main()
     cout << "\nnum1 % num2 =" << num1 % num2 << endl;
     return 0;
 }
-
 
 ![output](arithmetic_operators.png)
