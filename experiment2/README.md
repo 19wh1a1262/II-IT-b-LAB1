@@ -19,4 +19,4 @@
     return 0;
  }
 
-![output](assignment operators.png)
+![output](assignment_operators.png)
