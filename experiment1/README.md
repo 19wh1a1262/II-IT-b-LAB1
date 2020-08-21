@@ -18,3 +18,5 @@ int main()
     cout << "\nnum1 % num2 =" << num1 % num2 << endl;
     return 0;
 }
+
+![output](arithmeticoperators.png)
